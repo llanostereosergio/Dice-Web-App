@@ -1,0 +1,64 @@
+body {
+  background: #393E46;
+  font-family: 'Lobster', cursive;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+  margin: 5% auto;
+  text-align: center;
+}
+
+
+button {
+  background-color: #4ECCA3;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.5rem;
+  margin: 5% auto;
+  padding: 14px 50px;
+}
+
+footer{
+
+}
+
+buton:hover {
+
+}
+
+.navbar{
+  color: #4ECCA3;
+}
+
+.logo {
+  margin: auto 1rem;
+  max-width: 2.5rem;
+  height: auto;
+}
+
+.container{
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.player {
+  color: #4ECCA3;
+  display: inline-block;
+  font-family: 'Indie Flower', cursive;
+  margin: 1rem 1rem;
+}
+
+
+.btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.die1,.die2{
+  width: 60%;
+}
